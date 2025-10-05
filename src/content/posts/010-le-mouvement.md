@@ -1,6 +1,6 @@
 ---
 title: 'Le mouvement — comprendre comment et pourquoi les choses bougent'
-published: 2025-10-05
+published: 2025-10-14
 draft: false
 description: 'Un article de vulgarisation qui explique les notions fondamentales du mouvement : position, vitesse, accélération, forces et quelques expériences simples à réaliser.'
 series: 'Physique'
