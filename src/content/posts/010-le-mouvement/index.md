@@ -1,10 +1,13 @@
 ---
-title: 'Le mouvement — comprendre comment et pourquoi les choses bougent'
+title: 'Le mouvement'
 published: 2025-10-14
 draft: false
 description: 'Un article de vulgarisation qui explique les notions fondamentales du mouvement : position, vitesse, accélération, forces et quelques expériences simples à réaliser.'
 series: 'Physique'
 tags: ['physique', 'mouvement', 'vitesse', 'accélération']
+coverImage:
+  src: './cover.jpg'
+  alt: 'Mouvement'
 ---
 
 Le mouvement est partout autour de nous : la chute d'une pomme, la course d'un coureur, la trajectoire d'une planète. Comprendre le mouvement, c'est apprendre à décrire et à prédire comment la position d'un objet change avec le temps. Cet article présente les notions de base — position, vitesse, accélération — et explique le rôle des forces à travers les lois de Newton. Vous trouverez aussi des exemples concrets et des petites expériences que vous pouvez réaliser chez vous.
