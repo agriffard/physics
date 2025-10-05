@@ -128,7 +128,7 @@ if (postData.tags && postData.tags.length > 0) {
   {
     showSeries && series ? (
       <section>
-        <DividerText text={`${series.title} Series`} />
+        <DividerText text={`${series.title}`} />
         {series.entries.map((seriesPost) => (
           <PostPreview post={seriesPost} />
         ))}
