@@ -166,9 +166,9 @@ const config: SiteConfig = {
   // If you don't want to use Giscus, set this to undefined.
   giscus: {
     repo: 'agriffard/physics',
-    repoId: 'R_kgDOP8KOHQ',
-    category: 'Giscus',
-    categoryId: 'DIC_kwDOP8KOHc4CwPhF',
+    repoId: 'R_kgDOP8l3tA',
+    category: 'Comments',
+    categoryId: 'DIC_kwDOP8l3tM4CwRxl',
     reactionsEnabled: true, // Enable reactions on post itself
   },
   // These are characters available for the character chat feature.
