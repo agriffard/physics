@@ -1,8 +1,8 @@
 ---
-title: 'L''électron'
+title: "L'électron"
 published: 2025-10-13
 draft: false
-description: 'L''électron est l''une des particules les plus familières et pourtant les plus fascinantes de la physique.'
+description: "L'électron est l'une des particules les plus familières et pourtant les plus fascinantes de la physique."
 series: 'Physique quantique'
 tags: ['physique', 'quantique']
 coverImage:

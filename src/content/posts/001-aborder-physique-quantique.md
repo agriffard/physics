@@ -2,7 +2,7 @@
 title: 'Se préparer à aborder la physique quantique'
 published: 2025-10-05
 draft: false
-description: 'Conseils pour se préparer mentalement et pédagogiquement avant d''aborder la physique quantique.'
+description: "Conseils pour se préparer mentalement et pédagogiquement avant d'aborder la physique quantique."
 series: 'Physique quantique'
 tags: ['physique', 'quantique', 'préparation']
 ---

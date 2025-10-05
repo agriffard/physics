@@ -36,24 +36,20 @@ Ces propriétés sont à la base de nombreuses technologies (optique, acoustique
 On peut classer les ondes selon plusieurs critères. Voici les catégories principales et des exemples concrets :
 
 1. Ondes mécaniques vs ondes non‑mécaniques
-
    - Ondes mécaniques : elles nécessitent un milieu matériel pour se propager (ex. : ondes sonores, ondes sur une corde, ondes sismiques). Leur vitesse dépend souvent de la rigidité et de la densité du milieu.
    - Ondes non‑mécaniques : elles n'ont pas besoin de support matériel. Exemple majeur : les ondes électromagnétiques (lumière, ondes radio), qui se propagent dans le vide.
 
 2. Ondes transversales vs ondes longitudinales
-
    - Ondes transversales : la perturbation est perpendiculaire à la direction de propagation. Exemple : les ondes sur une corde, ou le champ électrique d'une onde lumineuse.
    - Ondes longitudinales : la perturbation est parallèle à la direction de propagation. Exemple : les ondes sonores dans l'air (variations de pression).
 
 3. Ondes progressives vs ondes stationnaires
-
    - Ondes progressives : l'énergie se déplace avec l'onde (une impulsion qui voyage).
    - Ondes stationnaires : résultent de la superposition de deux ondes progressives contraires; elles sont caractérisées par des nœuds (points fixes) et des ventres (points d'amplitude maximale). Ex. : modes propres d'une corde vibrante ou d'une cavité optique.
 
 4. Ondes classiques vs phénomènes quantiques ondulatoires
 
    Le terme "ondulatoire" prend une signification supplémentaire en mécanique quantique. Les particules microscopiques (électrons, photons) possèdent une double nature onde‑particule :
-
    - Ondes associées aux particules : la fonction d'onde Ψ(x,t) en mécanique quantique contient l'information sur la probabilité de présence d'une particule. Ses oscillations et interférences expliquent par exemple les franges d'interférence observées dans des expériences à électrons.
    - Différence essentielle : contrairement aux ondes classiques qui décrivent une grandeur physique mesurable en chaque point, la fonction d'onde quantum est liée à des probabilités — on n'observe que des probabilités lors des mesures.
 

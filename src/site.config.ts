@@ -4,10 +4,9 @@ const config: SiteConfig = {
   // Absolute URL to the root of your published site, used for generating links and sitemaps.
   site: 'https://physics.antoinegriffard.com/',
   // The name of your site, used in the title and for SEO.
-  title: 'Physique quantique',
+  title: 'Physics',
   // The description of your site, used for SEO and RSS feed.
-  description:
-    'Physique quantique',
+  description: 'Physique quantique',
   // The author of the site, used in the footer, SEO, and RSS feed.
   author: 'AG',
   // Keywords for SEO, used in the meta tags.

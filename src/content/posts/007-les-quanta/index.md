@@ -2,7 +2,7 @@
 title: 'Les quanta'
 published: 2025-10-11
 draft: false
-description: 'Introduction accessible au concept de quantification de l''énergie et au rôle des quanta en physique.'
+description: "Introduction accessible au concept de quantification de l'énergie et au rôle des quanta en physique."
 series: 'Physique quantique'
 tags: ['physique', 'quantique']
 coverImage:

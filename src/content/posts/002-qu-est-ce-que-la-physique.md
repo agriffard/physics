@@ -2,7 +2,7 @@
 title: "Qu'est-ce que la physique ?"
 published: 2025-10-06
 draft: false
-description: 'Un aperçu accessible de ce qu''est la physique, ses méthodes et ses grandes questions.'
+description: "Un aperçu accessible de ce qu'est la physique, ses méthodes et ses grandes questions."
 series: 'Physique quantique'
 tags: ['physique', 'quantique']
 ---

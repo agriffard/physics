@@ -1,5 +1,5 @@
 ---
-title: 'L''atomisme'
+title: "L'atomisme"
 published: 2025-10-08
 draft: false
 description: 'Description.'

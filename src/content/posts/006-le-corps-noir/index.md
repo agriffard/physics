@@ -50,4 +50,3 @@ Références et lectures conseillées :
 
 - Max Planck (1901) — "Sur la loi de distribution de l'énergie dans le spectre du rayonnement" (article historique ; résumé dans la plupart des manuels).
 - Pour aller plus loin : un bon manuel d'introduction à la physique moderne ou une ressource de vulgarisation sur la mécanique quantique.
-

@@ -1,7 +1,8 @@
 ---
 layout: '~/layouts/MarkdownLayout.astro'
-title: "À propos"
+title: 'À propos'
 ---
+
 Cette collection d'articles vise à rendre la physique — et plus particulièrement la physique quantique — accessible, rigoureuse et stimulante.
 
 ## Objet du site
