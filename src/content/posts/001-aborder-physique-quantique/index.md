@@ -5,6 +5,9 @@ draft: false
 description: "Conseils pour se préparer mentalement et pédagogiquement avant d'aborder la physique quantique."
 series: 'Physique quantique'
 tags: ['physique', 'quantique', 'préparation']
+coverImage:
+  src: './cover.jpg'
+  alt: 'Physique'
 ---
 
 La physique quantique est souvent présentée comme mystérieuse, contre-intuitive et réservée à une élite. Pourtant, elle devient de plus en plus accessible grâce à de bons ouvrages, des cours bien conçus et une approche mentale adaptée. Ce court article propose des conseils pour vous préparer à l'apprentissage : comment ajuster vos attentes et quelle posture adopter pour progresser sereinement.

@@ -5,6 +5,9 @@ draft: false
 description: 'Introduction pédagogique à la physique classique et au petit problème qui a motivé la naissance de la physique quantique.'
 series: 'Physique quantique'
 tags: ['physique', 'classique', 'quantique', 'histoire']
+coverImage:
+  src: './cover.jpg'
+  alt: 'Physique avant la quantique'
 ---
 
 Avant que la mécanique quantique n'apparaisse au début du XXᵉ siècle, les physiciens disposaient d'un cadre théorique — la physique classique — qui expliquait une vaste portion des phénomènes observables. Ce cadre reposait sur des idées intuitives : trajectoires continues, cause et effet, et des lois déterministes qui prédisent comment un système évolue dans le temps.

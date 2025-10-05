@@ -5,6 +5,9 @@ draft: false
 description: "Un aperçu accessible de ce qu'est la physique, ses méthodes et ses grandes questions."
 series: 'Physique quantique'
 tags: ['physique', 'quantique']
+coverImage:
+  src: './cover.jpg'
+  alt: 'Physique'
 ---
 
 La physique est souvent perçue comme une discipline réservée aux spécialistes, faite d'équations et d'expériences complexes. Pourtant, au cœur de cette science se trouvent des questions simples et profondes : comment les choses bougent-elles ?, pourquoi la lumière se comporte-t-elle comme elle le fait ?, de quoi est constitué le monde qui nous entoure ? Ce texte propose un court panorama pour saisir l'essentiel.
