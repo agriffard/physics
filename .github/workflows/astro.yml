@@ -68,33 +68,9 @@ jobs:
         working-directory: ${{ env.BUILD_PATH }}
       - name: Build with Astro
         run: |
-          # Some Pages deployments use a base path (project pages) and provide
-          # both an origin and a base_path. Combine them so Astro receives the
-          # full published site URL (origin + base_path) as --site. This
-          # ensures generated links, canonical tags and social card URLs keep
-          # the repository subpath (e.g. /physics/) instead of pointing to
-          # the user/org root.
-          SITE_ORIGIN="${{ steps.pages.outputs.origin }}"
-          BASE_PATH="${{ steps.pages.outputs.base_path }}"
-          # If base_path is "/" or empty, construct a fallback base path from the
-          # repository name so project pages still build with the repo subpath.
-          # Example: GITHUB_REPOSITORY=agriffard/physics -> /physics/
-          if [ -z "$BASE_PATH" ] || [ "$BASE_PATH" = "/" ]; then
-            REPO_NAME="${GITHUB_REPOSITORY#*/}"
-            BASE_PATH="/$REPO_NAME/"
-          fi
-          # Remove trailing slash from origin and ensure base path starts with /
-          SITE_ORIGIN="${SITE_ORIGIN%/}"
-          case "$BASE_PATH" in
-            /*) FULL_SITE="$SITE_ORIGIN$BASE_PATH" ;;
-            *) FULL_SITE="$SITE_ORIGIN/$BASE_PATH" ;;
-          esac
-          # Normalize duplicated slashes ("https://host//repo/") -> single slash
-          FULL_SITE=$(echo "$FULL_SITE" | sed -E 's:([^:])/+:\1/:g')
-          echo "Building site with --site=$FULL_SITE and --base=$BASE_PATH"
           ${{ steps.detect-package-manager.outputs.runner }} astro build \
-            --site "$FULL_SITE" \
-            --base "$BASE_PATH"
+            --site "${{ steps.pages.outputs.origin }}" \
+            --base "${{ steps.pages.outputs.base_path }}"
       - name: Build Pagefind Index
         run: |
           ${{ steps.detect-package-manager.outputs.runner }} pagefind --site dist
